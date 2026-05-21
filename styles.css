@@ -1,0 +1,77 @@
+h1{
+    color:pink;
+    text-align: left;
+    line-height: 30px;
+}
+h2{
+    color:pink;
+    text-align: left;
+    line-height: 30px;
+}
+h3{
+    color:pink;
+    text-align: left;
+    line-height: 30px;
+}
+h4{
+    color:pink;
+    text-align: left;
+    line-height: 30px;
+}
+h5{
+    color:pink;
+    text-align: left;
+    line-height: 30px;
+}
+h5{
+    color:pink;
+    text-align: left;
+    line-height: 30px;
+}
+
+
+p{
+    color:purple;
+    background-color: white;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: arial;
+    text-align: center;
+   
+}
+ul{
+    border-width: 4px;
+    border-style: solid;
+    border-color: red;
+    border-bottom:4px dotted crimson;
+    border-radius: 8px dashed crimson;
+}
+li{
+    list-style-type: none;
+    text-shadow: 2px 2px lightblue
+}
+
+
+span{
+   display:block;
+   margin:20px;
+   padding:20px;
+}
+
+
+div{
+    border:2px solid crimson;
+    margin:20px
+    padding:20px
+}
+
+
+.error{
+    color:red;
+}
+
+
+success.feedbal{
+    color:brown;
+}
+
